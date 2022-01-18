@@ -8,4 +8,4 @@ support multi user , data gon' be encrypted by the user password and saved on a 
 
 when you login into ur account the app will list all ur notes by the titles and the date of the note when its writen .
 
-my ratting : 4/10
+my rating : 4/10
